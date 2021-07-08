@@ -1,0 +1,18 @@
+body
+{
+    text-align: center;
+font-family:Trebuchet Ms;
+background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(0,255,250,1) 100%);}
+img
+{
+width: 20%;
+border-radius:50%; 
+}
+.Menu{
+list-style: none;
+}
+.Links{
+display:inline;
+padding: 5px;
+}
